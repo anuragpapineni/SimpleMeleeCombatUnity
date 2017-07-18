@@ -1,0 +1,2 @@
+# SimpleMeleeCombatUnity
+Simple Melee Combat is a small Unity project that works by making hitbox and hurtbox scripts that you can attach to characters to get melee combat effects. These hitboxes and hurtboxes will of course move with animations and can be enabled or disabled at anytime. This test project currently just prints the names of the hurt boxes whenever they've been hit. left/right click, Q, and E are attacks. WASD for movement and space for a crappy jump i never fully implemented.
